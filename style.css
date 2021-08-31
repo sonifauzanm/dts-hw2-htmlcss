@@ -1,0 +1,103 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+}
+
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container > div {
+  background-color: white;
+  margin: 10px;
+  padding: 100px;
+  font-size: 30px;
+}
+.flex-container2 {
+  display: flex;
+  background-color: lightblue;
+}
+
+.flex-container2 > div {
+  background-color: lightblue;
+  margin: 10px;
+  padding: 50px;
+  padding-left: 200px;
+  font-size: 30px;
+}
+.flex-container3 {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container3 > div {
+  background-color: white;
+  margin: 10px;
+  padding: 40px;
+  font-size: 30px;
+  padding-left: 220px;
+}
+
+.flex-container4 {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container4 > div {
+  background-color: white;
+  margin: 10px;
+  padding: 100px;
+  font-size: 30px;
+}
+
+p.b {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h3 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40pt;
+}
+
+h4 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer {
+  width: 100%;
+  padding: 20px;
+  background: #003366;
+}
+
+p1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+p3 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img {
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
+}
